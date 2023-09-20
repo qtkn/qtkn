@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qtkn
 - 👀 I’m interested in Video games - coding
-- 🌱 I’m currently learning C# - C++ - html
+- 🌱 I’m currently learning html, C++
 - 📫 How to reach me Discord : tiktok
 
 <!---
