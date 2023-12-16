@@ -1,19 +1,32 @@
-<h1 align="center">Hi 👋, I'm qtkn</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qtkn&label=Profile%20views&color=0e75b6&style=flat" alt="qtkn" /> </p>
+<h1 align="center">Hello, I'm qtkn 👋</h1>
 
-- 📫 How to reach me **Discord : qtkn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCaDgQL-9q-4x_-IKaUA6QWQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="qtkn" height="30" width="40" /></a>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=qtkn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📫 How to Reach Me
+- **Discord**: qtkn
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qtkn&show_icons=true&locale=en&layout=compact" alt="qtkn" /></p>
+## 🌐 Connect with Me
+- [YouTube](https://www.youtube.com/channel/UCaDgQL-9q-4x_-IKaUA6QWQ)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qtkn&show_icons=true&locale=en" alt="qtkn" /></p>
+## 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qtkn&" alt="qtkn" /></p>
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qtkn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=qtkn&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qtkn&" alt="GitHub Streak" />
+</p>
